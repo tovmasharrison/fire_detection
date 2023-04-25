@@ -20,10 +20,10 @@ To use this project, follow these steps:
 
 3. Create a .env file in the project root directory and add your Twilio    account SID, auth token, to and from phone numbers as environment      variables. The .env file should look like this:
 
-account_sid=<your_account_sid>  
-auth_token=<your_auth_token>  
-to=<your_phone_number>  
-from_=<twilio_phone_number>  
+      account_sid=<your_account_sid>  
+      auth_token=<your_auth_token>  
+      to=<your_phone_number>  
+      from_=<twilio_phone_number>  
 
 4. Run the fire_detection.py script using the command python              fire_detection.py.
 
